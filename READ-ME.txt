@@ -1,5 +1,5 @@
   =>  Template Name    : Gymnast - Gym Website Template
-
+..
   =>  Template Link    : https://htmlcodex.com/gym-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
